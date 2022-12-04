@@ -1,0 +1,233 @@
+{
+    "quizID": "1",
+    "title": "What cheese are you?",
+    "subtitle": "Cheesy, brah...",
+    "content": [
+        {
+            "id": 0,
+            "title": "Pick a vacation destination",
+            "questions": [
+                {
+                    "text": "New York",
+                    "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+                    "alt": "New York",
+                    "credit": "Yo MaMa"
+                },
+                {
+                    "text": "Buenos Aires",
+                    "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+                    "alt": "Buenos Aires",
+                    "credit": "Yo MaMa"
+                },
+                {
+                    "text": "L.A.",
+                    "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+                    "alt": "L.A.",
+                    "credit": "Yo MaMa"
+                },
+                {
+                    "text": "Berlin",
+                    "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+                    "alt": "Berlin",
+                    "credit": "Yo MaMa"
+                }
+               
+            ]
+        },
+        {
+            "id": 1,
+            "title": "Pick a home",
+            "questions": [
+                {
+                    "text": "Traditional",
+                    "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+                    "alt": "Traditional",
+                    "credit": "Yo MaMa"
+                },
+                {
+                    "text": "Modern",
+                    "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+                    "alt": "Modern",
+                    "credit": "Yo MaMa"
+                },
+                {
+                    "text": "Treehouse",
+                    "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+                    "alt": "Treehouse",
+                    "credit": "Yo MaMa"
+                },
+                {
+                    "text": "Gutter",
+                    "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+                    "alt": "Gutter",
+                    "credit": "Yo MaMa"
+                }
+               
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Pick something to eat",
+            "questions": [
+                {
+                    "text": "Pizza",
+                    "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+                    "alt": "Pizza",
+                    "credit": "Yo MaMa"
+                },
+                {
+                    "text": "Sammich",
+                    "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+                    "alt": "Sammich",
+                    "credit": "Yo MaMa"
+                },
+                {
+                    "text": "Spaghetti",
+                    "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+                    "alt": "Spaghetti",
+                    "credit": "Yo MaMa"
+                },
+                {
+                    "text": "Your mom",
+                    "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+                    "alt": "Your mom",
+                    "credit": "Yo MaMa"
+                }
+            ]
+        }
+    ],
+    "answers": [
+        {
+            "combination": ["New York","Pizza","Traditional"],
+            "text": "Meunster",
+            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+            "alt": "Bleu"
+        },
+        {
+            "combination": ["New York","Pizza","Traditional"],
+            "text": "Meunster",
+            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+            "alt": "Bleu"
+        },
+        {
+            "combination": ["New York","Pizza","Traditional"],
+            "text": "Meunster",
+            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+            "alt": "Bleu"
+        },
+        {
+            "combination": ["New York","Pizza","Traditional"],
+            "text": "Meunster",
+            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+            "alt": "Bleu"
+        },
+        {
+            "combination": ["New York","Pizza","Traditional"],
+            "text": "Meunster",
+            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+            "alt": "Bleu"
+        },
+        {
+            "combination": ["New York","Pizza","Traditional"],
+            "text": "Meunster",
+            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+            "alt": "Bleu"
+        },
+        {
+            "combination": ["New York","Pizza","Traditional"],
+            "text": "Meunster",
+            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+            "alt": "Bleu"
+        },
+        {
+            "combination": ["New York","Pizza","Traditional"],
+            "text": "Meunster",
+            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+            "alt": "Bleu"
+        },
+        {
+            "combination": ["New York","Pizza","Traditional"],
+            "text": "Meunster",
+            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+            "alt": "Bleu"
+        },
+        {
+            "combination": ["New York","Pizza","Traditional"],
+            "text": "Meunster",
+            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+            "alt": "Bleu"
+        },
+        {
+            "combination": ["New York","Pizza","Traditional"],
+            "text": "Meunster",
+            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+            "alt": "Bleu"
+        },
+        {
+            "combination": ["New York","Pizza","Traditional"],
+            "text": "Meunster",
+            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+            "alt": "Bleu"
+        },
+        {
+            "combination": ["New York","Pizza","Traditional"],
+            "text": "Meunster",
+            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+            "alt": "Bleu"
+        },
+        {
+            "combination": ["New York","Pizza","Traditional"],
+            "text": "Meunster",
+            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+            "alt": "Bleu"
+        },
+        {
+            "combination": ["New York","Pizza","Traditional"],
+            "text": "Meunster",
+            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+            "alt": "Bleu"
+        },
+        {
+            "combination": ["New York","Pizza","Traditional"],
+            "text": "Meunster",
+            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+            "alt": "Bleu"
+        },
+        {
+            "combination": ["New York","Pizza","Traditional"],
+            "text": "Meunster",
+            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+            "alt": "Bleu"
+        },
+        {
+            "combination": ["New York","Pizza","Traditional"],
+            "text": "Meunster",
+            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+            "alt": "Bleu"
+        },
+        {
+            "combination": ["New York","Pizza","Traditional"],
+            "text": "Meunster",
+            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+            "alt": "Bleu"
+        },
+        {
+            "combination": ["New York","Pizza","Traditional"],
+            "text": "Meunster",
+            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+            "alt": "Bleu"
+        },
+        {
+            "combination": ["New York","Pizza","Traditional"],
+            "text": "Meunster",
+            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+            "alt": "Bleu"
+        },
+        {
+            "combination": ["New York","Pizza","Traditional"],
+            "text": "Meunster",
+            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+            "alt": "Bleu"
+        }
+    ]
+}
