@@ -1,10 +1,10 @@
 import react from 'react'
 
-const Question = () => {
+const QuestionsBlock = () => {
     return (
         <div>
         </div>
     )
 }
 
-export  default Question
+export  default QuestionsBlock
