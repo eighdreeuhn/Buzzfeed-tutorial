@@ -98,136 +98,212 @@
     ],
     "answers": [
         {
-            "combination": ["New York","Pizza","Traditional"],
-            "text": "Meunster",
-            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
-            "alt": "Bleu"
+            "combination": ["New York", "Pizza", "Traditional"],
+            "text": "Blue Cheese",
+            "image": "https://images.unsplash.com/photo-1626697556739-77b40d9a6e99?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "alt": "blue cheese",
+            "credit": "Towfiqu Barbhuiya"
         },
         {
-            "combination": ["New York","Pizza","Traditional"],
-            "text": "Meunster",
-            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
-            "alt": "Bleu"
+            "combination": ["New York", "Pizza", "Modern"],
+            "text": "Stinking Bishop",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/A_slice_of_Stinking_Bishop_cheese.jpg",
+            "alt": "stinking bishop",
+            "credit": "Gilgongo"
         },
         {
-            "combination": ["New York","Pizza","Traditional"],
-            "text": "Meunster",
-            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
-            "alt": "Bleu"
+            "combination": ["New York", "Pizza", "House with Trees"],
+            "text": "Asadero",
+            "image": "https://cheesemakers.com/wp-content/uploads/2017/06/Queso-Quesadilla.jpg",
+            "alt": "asadero"
         },
         {
-            "combination": ["New York","Pizza","Traditional"],
-            "text": "Meunster",
-            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
-            "alt": "Bleu"
+            "combination": ["New York", "Pizza", "House in Mountains"],
+            "text": "Asiago",
+            "image": "https://images.heb.com/is/image/HEBGrocery/001338614?fit=constrain,1&wid=800&hei=800&fmt=jpg&qlt=85,0&resMode=sharp2&op_usm=1.75,0.3,2,0",
+            "alt": "asiago"
         },
         {
-            "combination": ["New York","Pizza","Traditional"],
-            "text": "Meunster",
-            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
-            "alt": "Bleu"
+            "combination": ["New York", "Sandwich", "Traditional"],
+            "text": "Swiss",
+            "image": "https://www.foodandwine.com/thmb/t-0AlYwHrzDhh_YxxJQRRLYuQ8Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-71285433-2000-0888f731cdbb4f0e9236ea9f43bdf930.jpg",
+            "alt": "swiss cheese",
+            "credit": "Istetiana/Getty Images"
         },
         {
-            "combination": ["New York","Pizza","Traditional"],
-            "text": "Meunster",
-            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
-            "alt": "Bleu"
+            "combination": ["New York", "Sandwich", "Modern"],
+            "text": "Gorgonzola",
+            "image": "https://rms.condenast.it/rms/public/5d8/4d0/fa7/thumb_4123_1200_670_0_0_auto.jpg",
+            "alt": "gorgonzola"
         },
         {
-            "combination": ["New York","Pizza","Traditional"],
-            "text": "Meunster",
-            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
-            "alt": "Bleu"
+            "combination": ["New York", "Sandwich", "House with Trees"],
+            "text": "Baladi",
+            "image": "https://i2.wp.com/www.arabamerica.com/wp-content/uploads/2020/10/baladi.jpg?resize=591%2C392&ssl=1",
+            "alt": "baladi"
         },
         {
-            "combination": ["New York","Pizza","Traditional"],
-            "text": "Meunster",
-            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
-            "alt": "Bleu"
+            "combination": ["New York", "Sandwich", "House in Mountain"],
+            "text": "Stilton",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Blue_Stilton_01.jpg",
+            "alt": "stilton",
+            "credit": "Coyau/Wikimedia Commons"
         },
         {
-            "combination": ["New York","Pizza","Traditional"],
-            "text": "Meunster",
-            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
-            "alt": "Bleu"
+            "combination": ["New York", "Pasta", "Traditional"],
+            "text": "Petit Breakfast Cheese",
+            "image": "https://goodeggs4.imgix.net/76236d87-7bd2-4627-a762-4851b866ac2c.jpeg?w=840&h=525&fm=jpg&q=80&fit=crop",
+            "alt": "petit breakfast cheese"
         },
         {
-            "combination": ["New York","Pizza","Traditional"],
-            "text": "Meunster",
-            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
-            "alt": "Bleu"
+            "combination": ["New York", "Pasta", "Modern"],
+            "text": "Brie",
+            "image": "http://cdn.shopify.com/s/files/1/2836/2982/products/brie-recipe_grande.jpg?v=1533088694",
+            "alt": "brie"
         },
         {
-            "combination": ["New York","Pizza","Traditional"],
-            "text": "Meunster",
-            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
-            "alt": "Bleu"
+            "combination": ["New York", "Pasta", "House with Trees"],
+            "text": "Camambert",
+            "image": "https://i.insider.com/5dc29d4179d7573d9c0f9c73?width=1200&format=jpeg",
+            "alt": "camembert"
         },
         {
-            "combination": ["New York","Pizza","Traditional"],
-            "text": "Meunster",
-            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
-            "alt": "Bleu"
+            "combination": ["New York", "Pasta", "House in Mountains"],
+            "text": "Carmody",
+            "image": "https://www.nuggetmarket.com/media/images/03/16/BF%20Carmody.jpg",
+            "alt": "carmody"
         },
         {
-            "combination": ["New York","Pizza","Traditional"],
-            "text": "Meunster",
-            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
-            "alt": "Bleu"
+            "combination": ["New York", "Hamburger", "Traditional"],
+            "text": "Huntsman",
+            "image": "https://cdn11.bigcommerce.com/s-n2v2dr/images/stencil/1280x1280/products/132/349/Huntsman__48193.1646345218.JPG?c=2",
+            "alt": "huntsman"
         },
         {
-            "combination": ["New York","Pizza","Traditional"],
-            "text": "Meunster",
-            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
-            "alt": "Bleu"
+            "combination": ["New York", "Hamburger", "Modern"],
+            "text": "Cheddar",
+            "image": "https://images.unsplash.com/photo-1574175679306-4c5f33146b6f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
+            "alt": "cheddar",
+            "credit": "Sigmund"
         },
         {
-            "combination": ["New York","Pizza","Traditional"],
-            "text": "Meunster",
-            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
-            "alt": "Bleu"
+            "combination": ["New York", "Hamburger", "House with Trees"],
+            "text": "White Cheddar",
+            "image": "https://images.unsplash.com/photo-1618164435777-ebf94ffa77af?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "alt": "white cheddar",
+            "credit": "Önder Örtel"
         },
         {
-            "combination": ["New York","Pizza","Traditional"],
-            "text": "Meunster",
-            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
-            "alt": "Bleu"
+            "combination": ["New York", "Hamburger", "House in Mountains"],
+            "text": "Colby",
+            "image": "https://dfwblobstorage.blob.core.windows.net/ewcmediacontainer/eatwisconsincheese/media/content/cheesemasters-2019/colby-header_2.jpg",
+            "alt": "colby"
         },
         {
-            "combination": ["New York","Pizza","Traditional"],
-            "text": "Meunster",
-            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
-            "alt": "Bleu"
+            "combination": ["Austin", "Pizza", "Traditional"],
+            "text": "Sage Derby",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Sage_derby_cheese.jpg",
+            "alt": "sage derby",
+            "credit": "Jon Sullivan"
         },
         {
-            "combination": ["New York","Pizza","Traditional"],
-            "text": "Meunster",
-            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
-            "alt": "Bleu"
+            "combination": ["Austin", "Pizza", "Modern"],
+            "text": "Pepperjack",
+            "image": "https://cdn.shopify.com/s/files/1/2836/2982/products/pepper-jack-cheese-recipe_large.jpg?v=1532115167",
+            "alt": "pepperjack"
         },
         {
-            "combination": ["New York","Pizza","Traditional"],
-            "text": "Meunster",
-            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
-            "alt": "Bleu"
+            "combination": ["Austin", "Pizza", "House with Trees"],
+            "text": "Cotija",
+            "image": "https://cdn-alhll.nitrocdn.com/tIJlWnRpkTAWBkeTPcmFwnPlQDazcWzd/assets/static/optimized/rev-7a0bfb2/wp-content/uploads/2020/07/Cotija-Cheese-Queso-Cotija.jpg",
+            "alt": "cojita"
         },
         {
-            "combination": ["New York","Pizza","Traditional"],
-            "text": "Meunster",
-            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
-            "alt": "Bleu"
+            "combination": ["Austin", "Pizza", "House in Mountains"],
+            "text": "Waterloo",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Waterloo_Cheese.jpg",
+            "alt": "waterloo",
+            "credit": "Js.wigmore"
         },
         {
-            "combination": ["New York","Pizza","Traditional"],
-            "text": "Meunster",
-            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
-            "alt": "Bleu"
+            "combination": ["Austin", "Sandwich", "Traditional"],
+            "text": "Cream Cheese",
+            "image": "https://www.biggerbolderbaking.com/wp-content/uploads/2016/07/IMG_4834.jpg",
+            "alt": "cream cheese",
+            "credit": "Gemma Stafford"
         },
         {
-            "combination": ["New York","Pizza","Traditional"],
-            "text": "Meunster",
-            "image": "https://images.unsplash.com/photo-1523374228107-6e44bd2b524e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
-            "alt": "Bleu"
+            "combination": ["Austin", "Sandwich", "Modern"],
+            "text": "Boursin",
+            "image": "https://img.sndimg.com/food/image/upload/q_92,fl_progressive,w_1200,c_scale/v1/img/recipes/80/67/5/CxAyLJnnS4CpHf9TvU2K_homemade-boursin-cheeseball-2205.jpg",
+            "alt": "boursin",
+            "credit": "DianaEatingRichly"
+        },
+        {
+            "combination": ["Austin", "Sandwich", "House with Trees"],
+            "text": "Curd",
+            "image": "https://www.rebootedmom.com/wp-content/uploads/2019/06/Cheese-Curds-1-2.jpg",
+            "alt": "curd",
+            "credit": "Sheryl, Rebooted Mom"
+        },
+        {
+            "combination": ["Austin", "Sandwich", "House in Mountains"],
+            "text": "Dry Jack",
+            "image": "https://s.hdnux.com/photos/10/64/32/2311853/12/1200x0.jpg",
+            "alt": "dry jack",
+            "credit": "Craig Lee"
+        },
+        {
+            "combination": ["Austin", "Pasta", "Traditional"],
+            "text": "Edam",
+            "image": "https://cdn.tasteatlas.com/images/ingredients/e163874d08ec42c29e019b5b86837c28.jpg",
+            "alt": "edam"
+        },
+        {
+            "combination": ["Austin", "Pasta", "Modern"],
+            "text": "Roquefort",
+            "image": "https://chefsmandala.com/wp-content/uploads/2018/02/Roquefort-Chz-shutterstock_567074089.jpg",
+            "alt": "roquefort"
+        },
+        {
+            "combination": ["Austin", "Pasta", "House with Trees"],
+            "text": "Feta",
+            "image": "https://images.unsplash.com/photo-1442604699113-7d805614c476?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "alt": "feta",
+            "credit": "Anita Peeples"
+        },
+        {
+            "combination": ["Austin", "Pasta", "House in Mountains"],
+            "text": "Gruyere",
+            "image": "https://images.unsplash.com/photo-1512594282804-b5f400408c9d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "alt": "gruyere",
+            "credit": "Angela Pham"
+        },
+        {
+            "combination": ["Austin", "Hamburger", "Traditional"],
+            "text": "Fontina",
+            "image": "https://cdn.britannica.com/37/122537-004-47AEF8BF/Fontina.jpg",
+            "alt": "fontina",
+            "credit": "Dominik Hundhammer"
+        },
+        {
+            "combination": ["Austin", "Hamburger", "Modern"],
+            "text": "Emmental",
+            "image": "https://chefsmandala.com/wp-content/uploads/2018/03/FR-v-SW-Emmental-FF-shutterstock_184750109-1.jpg",
+            "alt": "emmental"
+        },
+        {
+            "combination": ["Austin", "Hamburger", "House with Trees"],
+            "text": "Parmesan",
+            "image": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2016_07/977756/grated-parmesan-today-tease-160217.jpg",
+            "alt": "parmesan",
+            "credit": "Foodio"
+        },
+        {
+            "combination": ["Austin", "Hamburger", "House in Mountains"],
+            "text": "Gouda",
+            "image": "https://www.lacademie.com/wp-content/uploads/2021/10/delicious-gouda-cheese.jpg",
+            "alt": "gouda"
         }
     ]
 }
