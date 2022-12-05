@@ -3,8 +3,8 @@
 ## A little learning exercise in Typescript/React w/ Chloe and Anas ##
 
 ```javascript
-"allow": "application/json"
+"accept": "application/json"
 ```
 needed to be :
 ```javascript
-"allow-encoding":"application/json"
+"accept-encoding":"application/json"
