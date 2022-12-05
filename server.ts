@@ -1,7 +1,9 @@
 import express, {Request,Response} from 'express'
-import axios, {AxiosResponse} from 'axios'
+import axios,   {AxiosResponse}    from 'axios'
+require('dotenv').config()
 
 const PORT = 8000
+const TOKEN = process.env.TOKEN
 const app = express()
 
 app.get("/quiz-item", async (req: Request, res: Response) => {
@@ -9,7 +11,7 @@ app.get("/quiz-item", async (req: Request, res: Response) => {
         const response : AxiosResponse = await axios.get("https://8cfd2eae-5bb1-4fdc-907b-a6166918e3a3-us-east1.apps.astra.datastax.com/api/rest/v2/namespaces/quizzes/collections/quirky",
         {
             headers: {
-                "X-Cassandra-Token": "AstraCS:SKANtZYZjBdQHjsCUkZhRSHe:f61184ba2eb3b8549a5ac660233fd6b62453f80fae0353723cc9e07a46df0d0a",
+                "X-Cassandra-Token": TOKEN,
                 "accept-encoding": "application/json"
             }
         })
