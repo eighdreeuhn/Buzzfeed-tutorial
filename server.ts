@@ -10,9 +10,17 @@ app.get("/quiz-item", async (req: Request, res: Response) => {
         {
             headers: {
                 "X-Cassandra-Token": "AstraCS:SKANtZYZjBdQHjsCUkZhRSHe:f61184ba2eb3b8549a5ac660233fd6b62453f80fae0353723cc9e07a46df0d0a",
-                "accept": "application/json"
+                "accept-encoding": "application/json"
             }
         })
+        if (response.status === 200) {
+            const quizItem = await response.data
+            res.setHeader("Access-Control-Allow-Origin", "http://localhost:3000")
+            res.send(quizItem)
+        }
+    }
+    catch (e) {
+        console.log(`This happend: ${e} and then this happened: ${e} also this ${e}`)
     }
 })
 
