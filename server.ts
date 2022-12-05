@@ -1,12 +1,12 @@
-import express, {Request,Response} from 'express'
-import axios,   {AxiosResponse}    from 'axios'
-import {QuizData} from "./interfaces"
+import express, { Request, Response } from 'express'
+import axios,   { AxiosResponse }    from 'axios'
+import { QuizData } from "./interfaces"
 
 require('dotenv').config()
-const PORT = 8000
+const app = express()
 const TOKEN = process.env.TOKEN
 const GETURL = process.env.GETURL
-const app = express()
+const PORT = 8000
 
 app.get("/quiz-item", async (req: Request, res: Response) => {
     try {
@@ -25,8 +25,8 @@ app.get("/quiz-item", async (req: Request, res: Response) => {
         }
     }
     catch (e) {
-        console.log(`This happend: ${e} and then this happened: ${e} also this ${e}`)
+        console.log(`This happend: ${e}... and then this happened: ${e}... also this ${e}.`)
     }
 })
 
-app.listen(PORT, () => console.log(`Server running on port: ${PORT}`))
+app.listen(PORT, () => console.log(`Broadcasting... live and direct, on port: ${PORT}`))
