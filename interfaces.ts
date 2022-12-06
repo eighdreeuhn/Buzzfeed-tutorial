@@ -15,7 +15,7 @@ interface Answer {
 
 interface Content {
     id: number;
-    text: string;
+    title: string;
     questions: Question[];
 }
 
