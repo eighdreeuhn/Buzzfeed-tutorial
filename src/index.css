@@ -35,8 +35,7 @@ p {
 }
 
 img {
-    margin-top: 5px;
-    width: 300px;
+    width: 350px;
 }
 
 .title-block {
@@ -57,13 +56,13 @@ img {
 }
 
 .question-block {
-    height: 286px;
+    height: 300px;
     width: 500px;
     overflow: hidden;
     border-radius: 10px;
     box-shadow: rgba(0,0,0,0.07) 0 0 0 2px;
     border: none;
-    margin: 0 1% 2px;
+    margin: 0 5px;
     padding: 0;
 }
 
