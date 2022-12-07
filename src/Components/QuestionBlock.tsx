@@ -1,9 +1,26 @@
 import react from 'react'
 import { Question } from '../../interfaces'
 
-const QuestionBlock = ({question}: {question: Question}) => {
+const QuestionBlock = (
+    {
+        question, 
+        quizItemId,
+        setChosenAnswerItems, 
+        setUnansweredQuestionIds,
+        unansweredQuestionIds
+    }: 
+    {
+        question: Question, 
+        setChosenAnswerItems: Function,
+        setUnansweredQuestionIds: Function,
+        unansweredQuestionIds: number[]|undefined,
+        quizItemId: number
+    }) => {
 
-    const handleClick = () => {}
+    const handleClick = () => {
+        setChosenAnswerItems((prevState:string[]) => [...prevState, question.text])
+        setUnansweredQuestionIds(unansweredQuestionIds?.filter((id: number)=> (id!==quizItemId)))
+    }
 
     return (
         <button

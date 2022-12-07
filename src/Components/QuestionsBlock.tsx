@@ -2,7 +2,19 @@ import react from 'react'
 import { Content, Question } from '../../interfaces'
 import QuestionBlock from './QuestionBlock'
 
-const QuestionsBlock = ({quizItem}: {quizItem: Content}) => {
+const QuestionsBlock = (
+    {
+         quizItem,
+         setChosenAnswerItems,
+         setUnansweredQuestionIds,
+         unansweredQuestionIds
+    }: 
+    {
+        quizItem: Content,
+        setChosenAnswerItems: Function,
+        setUnansweredQuestionIds: Function,
+        unansweredQuestionIds: number[]|undefined
+        }) => {
     console.log(quizItem)
     return (
         <div>
@@ -12,6 +24,10 @@ const QuestionsBlock = ({quizItem}: {quizItem: Content}) => {
                 <QuestionBlock 
                     key={_index}
                     question={question}
+                    setChosenAnswerItems={setChosenAnswerItems}
+                    quizItemId={quizItem.id}
+                    setUnansweredQuestionIds={setUnansweredQuestionIds}
+                    unansweredQuestionIds={unansweredQuestionIds}
                 />
             ))}
         </div>
