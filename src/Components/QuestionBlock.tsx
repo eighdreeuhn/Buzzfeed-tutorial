@@ -5,12 +5,14 @@ const QuestionBlock = (
     {
         question, 
         quizItemId,
+        chosenAnswerItems,
         setChosenAnswerItems, 
         setUnansweredQuestionIds,
         unansweredQuestionIds
     }: 
     {
         question: Question, 
+        chosenAnswerItems: string[],
         setChosenAnswerItems: Function,
         setUnansweredQuestionIds: Function,
         unansweredQuestionIds: number[]|undefined,
@@ -21,6 +23,8 @@ const QuestionBlock = (
         setChosenAnswerItems((prevState:string[]) => [...prevState, question.text])
         setUnansweredQuestionIds(unansweredQuestionIds?.filter((id: number)=> (id!==quizItemId)))
     }
+
+    const validPick = !chosenAnswerItems?.includes(question.text) && !unansweredQuestionIds?.includes(quizItemId)
 
     return (
         <button

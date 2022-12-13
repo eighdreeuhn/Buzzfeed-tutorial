@@ -5,12 +5,14 @@ import QuestionBlock from './QuestionBlock'
 const QuestionsBlock = (
     {
          quizItem,
+         chosenAnswerItems,
          setChosenAnswerItems,
          setUnansweredQuestionIds,
          unansweredQuestionIds
     }: 
     {
         quizItem: Content,
+        chosenAnswerItems: string[],
         setChosenAnswerItems: Function,
         setUnansweredQuestionIds: Function,
         unansweredQuestionIds: number[]|undefined
@@ -20,10 +22,11 @@ const QuestionsBlock = (
         <div>
         <h2 className="title-block" id={String(quizItem.id)}>{quizItem.title}</h2>
         <div className="questions-container">
-            {quizItem?.questions.map((question: Question, _index: number) =>(
+            {quizItem?.questions.map((question: Question, _index: number) => (
                 <QuestionBlock 
                     key={_index}
                     question={question}
+                    chosenAnswerItems={chosenAnswerItems}
                     setChosenAnswerItems={setChosenAnswerItems}
                     quizItemId={quizItem.id}
                     setUnansweredQuestionIds={setUnansweredQuestionIds}

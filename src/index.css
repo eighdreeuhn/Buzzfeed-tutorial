@@ -75,3 +75,9 @@ img {
     color: rgb(149, 90, 90);
     text-decoration: none;
 }
+
+.answer-block {
+    width: 600px;
+    background-color: rgb(255,61,158);
+    border-radius: 5px;
+}
